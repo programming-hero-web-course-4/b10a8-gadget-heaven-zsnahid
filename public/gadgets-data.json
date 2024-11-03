@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://example.com/iphone15promax.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max featuring cutting-edge technology and premium design.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://example.com/s24ultra.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Premium Android flagship with advanced AI features and exceptional camera capabilities.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X",
+      "Snapdragon 8 Gen 3",
+      "200MP main camera system",
+      "S Pen included",
+      "12GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://example.com/pixel8pro.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Experience the power of Google AI with the most advanced Pixel camera system ever.",
+    "specification": [
+      "6.7-inch LTPO OLED",
+      "Google Tensor G3",
+      "50MP triple camera system",
+      "Android 14",
+      "128GB storage"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 12",
+    "product_image": "https://example.com/oneplus12.jpg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Flagship killer with premium features and blazing-fast charging capabilities.",
+    "specification": [
+      "6.82-inch AMOLED",
+      "Snapdragon 8 Gen 3",
+      "50MP Sony sensor",
+      "100W charging",
+      "16GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Xiaomi 14 Pro",
+    "product_image": "https://example.com/xiaomi14pro.jpg",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Premium features at a competitive price with advanced camera system.",
+    "specification": [
+      "6.73-inch AMOLED",
+      "Snapdragon 8 Gen 3",
+      "50MP Leica optics",
+      "120W charging",
+      "12GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Nothing Phone 2",
+    "product_image": "https://example.com/nothing2.jpg",
+    "category": "Smartphones",
+    "price": 699,
+    "description": "Unique design with Glyph interface and clean Android experience.",
+    "specification": [
+      "6.7-inch OLED",
+      "Snapdragon 8+ Gen 1",
+      "50MP dual camera",
+      "Glyph interface",
+      "12GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P007",
+    "product_title": "MacBook Pro 16",
+    "product_image": "https://example.com/macbookpro16.jpg",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "Professional-grade laptop with M3 Max chip for ultimate performance.",
+    "specification": [
+      "16-inch Liquid Retina XDR",
+      "M3 Max chip",
+      "Up to 128GB unified memory",
+      "Up to 8TB SSD",
+      "22-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Dell XPS 15",
+    "product_image": "https://example.com/xps15.jpg",
+    "category": "Laptops",
+    "price": 1999,
+    "description": "Premium Windows laptop with stunning OLED display and powerful performance.",
+    "specification": [
+      "15.6-inch 4K OLED",
+      "Intel Core i9-13900H",
+      "RTX 4070",
+      "32GB RAM",
+      "1TB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Apple Watch Ultra 2",
+    "product_image": "https://example.com/watchultra2.jpg",
+    "category": "Smart Watches",
+    "price": 799,
+    "description": "The most rugged and capable Apple Watch for outdoor adventures.",
+    "specification": [
+      "49mm titanium case",
+      "Always-On Retina display",
+      "Dual-frequency GPS",
+      "Action button",
+      "Water resistant to 100m"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Samsung Galaxy Watch 6 Pro",
+    "product_image": "https://example.com/galaxywatch6pro.jpg",
+    "category": "Smart Watches",
+    "price": 449,
+    "description": "Advanced health tracking and smart features in a premium design.",
+    "specification": [
+      "45mm display",
+      "Sapphire Crystal",
+      "Body composition",
+      "ECG monitoring",
+      "5ATM water resistance"
+    ],
+    "availability": true,
+    "rating": 4.6
+  }
+]

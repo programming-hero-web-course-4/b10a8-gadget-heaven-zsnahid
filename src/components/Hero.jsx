@@ -13,7 +13,9 @@ export default function Hero() {
             next level. <br /> From smart devices to the coolest accessories, we
             have it all!
           </p>
-          <button className="btn text-myPurple rounded-3xl">Shop Now</button>
+          <button className="btn text-myPurple rounded-3xl">
+            <a href="gadgets">Shop Now</a>
+          </button>
         </div>
       </div>
       <div className="absolute z-10 bottom-0 translate-y-[60%] p-5 border-t-2 rounded-2xl bg-white bg-opacity-30 backdrop-blur">

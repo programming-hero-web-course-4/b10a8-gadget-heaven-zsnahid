@@ -2,7 +2,7 @@
   {
     "product_id": "P001",
     "product_title": "Apple iPhone 15 Pro Max",
-    "product_image": "https://example.com/iphone15promax.jpg",
+    "product_image": "https://i.ibb.co.com/5n5NbKR/iphone-15-pro-max.jpg",
     "category": "Smartphones",
     "price": 1299,
     "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max featuring cutting-edge technology and premium design.",
@@ -19,7 +19,7 @@
   {
     "product_id": "P002",
     "product_title": "Samsung Galaxy S24 Ultra",
-    "product_image": "https://example.com/s24ultra.jpg",
+    "product_image": "https://i.ibb.co.com/YZNLnPC/samsung-s24-ultra.jpg",
     "category": "Smartphones",
     "price": 1199,
     "description": "Premium Android flagship with advanced AI features and exceptional camera capabilities.",
@@ -36,7 +36,7 @@
   {
     "product_id": "P003",
     "product_title": "Google Pixel 8 Pro",
-    "product_image": "https://example.com/pixel8pro.jpg",
+    "product_image": "https://i.ibb.co.com/4sSVqBV/pixel-8-pro.jpg",
     "category": "Smartphones",
     "price": 999,
     "description": "Experience the power of Google AI with the most advanced Pixel camera system ever.",
@@ -53,7 +53,7 @@
   {
     "product_id": "P004",
     "product_title": "OnePlus 12",
-    "product_image": "https://example.com/oneplus12.jpg",
+    "product_image": "https://i.ibb.co.com/tJTJxFJ/oneplus-12.jpg",
     "category": "Smartphones",
     "price": 899,
     "description": "Flagship killer with premium features and blazing-fast charging capabilities.",
@@ -70,7 +70,7 @@
   {
     "product_id": "P005",
     "product_title": "Xiaomi 14 Pro",
-    "product_image": "https://example.com/xiaomi14pro.jpg",
+    "product_image": "https://i.ibb.co.com/Z2wB15d/xiaomi-14-pro.jpg",
     "category": "Smartphones",
     "price": 799,
     "description": "Premium features at a competitive price with advanced camera system.",
@@ -87,7 +87,7 @@
   {
     "product_id": "P006",
     "product_title": "Nothing Phone 2",
-    "product_image": "https://example.com/nothing2.jpg",
+    "product_image": "https://i.ibb.co.com/cXN4TXB/nothing-phone-2.jpg",
     "category": "Smartphones",
     "price": 699,
     "description": "Unique design with Glyph interface and clean Android experience.",
@@ -104,7 +104,7 @@
   {
     "product_id": "P007",
     "product_title": "MacBook Pro 16",
-    "product_image": "https://example.com/macbookpro16.jpg",
+    "product_image": "https://i.ibb.co.com/Y8mCqLH/macbook-pro-16.jpg",
     "category": "Laptops",
     "price": 2499,
     "description": "Professional-grade laptop with M3 Max chip for ultimate performance.",
@@ -121,7 +121,7 @@
   {
     "product_id": "P008",
     "product_title": "Dell XPS 15",
-    "product_image": "https://example.com/xps15.jpg",
+    "product_image": "https://i.ibb.co.com/48TdtXT/dell-xps-15.jpg",
     "category": "Laptops",
     "price": 1999,
     "description": "Premium Windows laptop with stunning OLED display and powerful performance.",
@@ -138,7 +138,7 @@
   {
     "product_id": "P009",
     "product_title": "Apple Watch Ultra 2",
-    "product_image": "https://example.com/watchultra2.jpg",
+    "product_image": "https://i.ibb.co.com/1J7V1CN/apple-watch-ultra-2.jpg",
     "category": "Smart Watches",
     "price": 799,
     "description": "The most rugged and capable Apple Watch for outdoor adventures.",
@@ -155,7 +155,7 @@
   {
     "product_id": "P010",
     "product_title": "Samsung Galaxy Watch 6 Pro",
-    "product_image": "https://example.com/galaxywatch6pro.jpg",
+    "product_image": "https://i.ibb.co.com/Qf6gZJB/samsung-galaxy-watch-6-pro.jpg",
     "category": "Smart Watches",
     "price": 449,
     "description": "Advanced health tracking and smart features in a premium design.",
@@ -168,5 +168,39 @@
     ],
     "availability": true,
     "rating": 4.6
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/2ZSZFbZ/asus-rog-zephyrus-g14.jpg",
+    "category": "Laptops",
+    "price": 1599,
+    "description": "Compact gaming powerhouse with AMD advantage and impressive battery life.",
+    "specification": [
+      "14-inch QHD 165Hz",
+      "AMD Ryzen 9 7940HS",
+      "Radeon RX 7600S",
+      "16GB DDR5 RAM",
+      "1TB NVMe SSD"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Google Pixel Watch 2",
+    "product_image": "https://i.ibb.co.com/PWFkPDt/google-pixel-watch-2.webp",
+    "category": "Smart Watches",
+    "price": 349,
+    "description": "The perfect companion for Pixel users with Fitbit integration and clean design.",
+    "specification": [
+      "41mm AMOLED display",
+      "Qualcomm 5100",
+      "Advanced heart rate tracking",
+      "Fall detection",
+      "24-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.4
   }
 ]

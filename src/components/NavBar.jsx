@@ -1,5 +1,6 @@
 import { PiHeart, PiShoppingCart } from "react-icons/pi";
-import { NavLink } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
+import logo from "../assets/favicon-16x16.png";
 
 export default function NavBar() {
   const links = (
@@ -46,18 +47,21 @@ export default function NavBar() {
             {links}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl text-white">Gadget Heaven</a>
+        <Link className="btn btn-ghost text-xl text-white">
+          <img src={logo} />
+          Gadget Heaven
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1 text-white">{links}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn btn-circle btn-sm mr-3">
+        <Link className="btn btn-circle btn-sm mr-3">
           <PiShoppingCart />
-        </a>
-        <a className="btn btn-circle btn-sm">
+        </Link>
+        <Link className="btn btn-circle btn-sm">
           <PiHeart />
-        </a>
+        </Link>
       </div>
     </div>
   );

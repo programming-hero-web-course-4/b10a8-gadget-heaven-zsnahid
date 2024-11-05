@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import { GadgetContext } from "./Gadgets";
+import { GadgetContext } from "../pages/Gadgets";
 
 export default function Gadget() {
   const gadget = useContext(GadgetContext);

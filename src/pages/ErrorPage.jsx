@@ -21,7 +21,7 @@ export default function ErrorPage() {
 
           <div className="bg-gray-50 rounded-md p-4">
             <p className="text-sm text-gray-500 italic">
-              {error.statusText || error.message || "Unknown error"}
+              {error.statusText || error.message}
             </p>
           </div>
         </div>

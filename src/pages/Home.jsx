@@ -1,5 +1,5 @@
+import Hero from "../components/Hero";
 import Gadgets from "./Gadgets";
-import Hero from "./Hero";
 
 export default function Home() {
   return (

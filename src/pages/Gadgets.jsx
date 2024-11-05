@@ -1,17 +1,22 @@
-import { createContext, useEffect, useState } from "react";
-import { useLoaderData, useParams } from "react-router-dom";
-import Gadget from "./Gadget";
+import { createContext } from "react";
+import { useLoaderData } from "react-router-dom";
+import Gadget from "../components/Gadget";
 
 export const GadgetContext = createContext({});
 
 export default function Gadgets() {
   const { gadgetsData, categoriesData } = useLoaderData();
-  const {categoryName} = useParams()
-  const [gadgets, setGadgets] = useState();
+  // const { categoryName } = useParams();
+  // const [gadgets, setGadgets] = useState();
 
-  useEffect(()=>{
-    
-  },[categoryName])
+  // setGadgets(gadgetsData);
+
+  // useEffect(() => {
+  //   const products = gadgetsData.filter(
+  //     (product) => product.category === categoryName
+  //   );
+  //   setGadgets(products);
+  // }, [categoryName]);
   // console.log(gadgetsData, categoriesData);
   return (
     <div className="mt-[20rem]">

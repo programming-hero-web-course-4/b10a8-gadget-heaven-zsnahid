@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import bannerImg from "../assets/banner.jpg";
 
 export default function Hero() {
@@ -14,7 +15,7 @@ export default function Hero() {
             have it all!
           </p>
           <button className="btn text-myPurple rounded-3xl">
-            <a href="gadgets">Shop Now</a>
+            <Link href="gadgets">Shop Now</Link>
           </button>
         </div>
       </div>

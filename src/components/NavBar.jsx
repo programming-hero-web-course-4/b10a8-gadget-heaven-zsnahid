@@ -47,7 +47,10 @@ export default function NavBar() {
             {links}
           </ul>
         </div>
-        <Link className="btn btn-ghost text-xl text-white">
+        <Link
+          to="/"
+          className="btn btn-ghost text-xl text-white"
+        >
           <img src={logo} />
           Gadget Heaven
         </Link>

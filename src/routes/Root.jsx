@@ -6,7 +6,9 @@ export default function Root() {
   return (
     <section className="font-sora bg-zinc-100 py-5">
       <NavBar />
-      <Outlet />
+      <div className="min-h-[calc(100vh-27rem)]">
+        <Outlet />
+      </div>
       <Footer />
     </section>
   );

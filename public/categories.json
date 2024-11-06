@@ -1,1 +1,11 @@
-["Smartphones", "Laptops", "Smart Watches"]
+[
+  {
+    "category": "Smartphones"
+  },
+  {
+    "category": "Laptops"
+  },
+  {
+    "category": "Smart-Watches"
+  }
+]

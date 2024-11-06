@@ -139,7 +139,7 @@
     "product_id": "P009",
     "product_title": "Apple Watch Ultra 2",
     "product_image": "https://i.ibb.co.com/1J7V1CN/apple-watch-ultra-2.jpg",
-    "category": "Smart Watches",
+    "category": "Smart-Watches",
     "price": 799,
     "description": "The most rugged and capable Apple Watch for outdoor adventures.",
     "specification": [
@@ -156,7 +156,7 @@
     "product_id": "P010",
     "product_title": "Samsung Galaxy Watch 6 Pro",
     "product_image": "https://i.ibb.co.com/Qf6gZJB/samsung-galaxy-watch-6-pro.jpg",
-    "category": "Smart Watches",
+    "category": "Smart-Watches",
     "price": 449,
     "description": "Advanced health tracking and smart features in a premium design.",
     "specification": [
@@ -190,7 +190,7 @@
     "product_id": "P012",
     "product_title": "Google Pixel Watch 2",
     "product_image": "https://i.ibb.co.com/PWFkPDt/google-pixel-watch-2.webp",
-    "category": "Smart Watches",
+    "category": "Smart-Watches",
     "price": 349,
     "description": "The perfect companion for Pixel users with Fitbit integration and clean design.",
     "specification": [

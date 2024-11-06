@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import { GadgetContext } from "../pages/Gadgets";
+import { GadgetContext } from "../pages/AllGadgets";
 
 export default function Gadget() {
   const gadget = useContext(GadgetContext);
-  console.log(gadget);
+  // console.log(gadget);
   const { product_image, product_title, price } = gadget;
   return (
     <div className="card bg-base-100">

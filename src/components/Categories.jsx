@@ -5,8 +5,12 @@ export default function Categories({ categories }) {
   return (
     <div className="w-52 h-fit bg-white p-5 rounded-xl space-y-5 sticky top-5">
       <NavLink
-        to="/all-products"
-        className="btn btn-block bg-myPurple text-white rounded-3xl"
+        to="/"
+        className={({ isActive }) =>
+          `btn btn-block rounded-3xl transition ease-in-out duration-300 hover:bg-[#8332C5] hover:text-white ${
+            isActive ? "bg-myPurple text-white" : ""
+          }`
+        }
       >
         All Products
       </NavLink>
@@ -14,7 +18,11 @@ export default function Categories({ categories }) {
         <NavLink
           to={`/category/${category.category}`}
           key={category.category}
-          className="btn btn-block rounded-3xl"
+          className={({ isActive }) =>
+            `btn btn-block rounded-3xl transition ease-in-out duration-300 hover:bg-[#8332C5] hover:text-white ${
+              isActive ? "bg-myPurple text-white" : ""
+            }`
+          }
         >
           {category.category}
         </NavLink>

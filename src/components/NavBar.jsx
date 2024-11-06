@@ -56,7 +56,7 @@ export default function NavBar() {
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
-        <ul className="menu menu-horizontal px-1 text-white">{links}</ul>
+        <ul className="menu gap-1 menu-horizontal px-1 text-white">{links}</ul>
       </div>
       <div className="navbar-end">
         <Link className="btn btn-circle btn-sm mr-3">

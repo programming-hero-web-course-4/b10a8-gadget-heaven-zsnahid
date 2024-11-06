@@ -18,36 +18,36 @@
   },
   {
     "product_id": "P002",
-    "product_title": "Samsung Galaxy S24 Ultra",
-    "product_image": "https://i.ibb.co.com/YZNLnPC/samsung-s24-ultra.jpg",
-    "category": "Smartphones",
-    "price": 1199,
-    "description": "Premium Android flagship with advanced AI features and exceptional camera capabilities.",
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/48TdtXT/dell-xps-15.jpg",
+    "category": "Laptops",
+    "price": 1999,
+    "description": "Premium Windows laptop with stunning OLED display and powerful performance.",
     "specification": [
-      "6.8-inch Dynamic AMOLED 2X",
-      "Snapdragon 8 Gen 3",
-      "200MP main camera system",
-      "S Pen included",
-      "12GB RAM"
+      "15.6-inch 4K OLED",
+      "Intel Core i9-13900H",
+      "RTX 4070",
+      "32GB RAM",
+      "1TB SSD"
     ],
     "availability": true,
     "rating": 4.7
   },
   {
     "product_id": "P003",
-    "product_title": "Google Pixel 8 Pro",
-    "product_image": "https://i.ibb.co.com/4sSVqBV/pixel-8-pro.jpg",
-    "category": "Smartphones",
-    "price": 999,
-    "description": "Experience the power of Google AI with the most advanced Pixel camera system ever.",
+    "product_title": "Samsung Galaxy Watch 6 Pro",
+    "product_image": "https://i.ibb.co.com/Qf6gZJB/samsung-galaxy-watch-6-pro.jpg",
+    "category": "Smart-Watches",
+    "price": 449,
+    "description": "Advanced health tracking and smart features in a premium design.",
     "specification": [
-      "6.7-inch LTPO OLED",
-      "Google Tensor G3",
-      "50MP triple camera system",
-      "Android 14",
-      "128GB storage"
+      "45mm display",
+      "Sapphire Crystal",
+      "Body composition",
+      "ECG monitoring",
+      "5ATM water resistance"
     ],
-    "availability": false,
+    "availability": true,
     "rating": 4.6
   },
   {
@@ -120,17 +120,17 @@
   },
   {
     "product_id": "P008",
-    "product_title": "Dell XPS 15",
-    "product_image": "https://i.ibb.co.com/48TdtXT/dell-xps-15.jpg",
-    "category": "Laptops",
-    "price": 1999,
-    "description": "Premium Windows laptop with stunning OLED display and powerful performance.",
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/YZNLnPC/samsung-s24-ultra.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Premium Android flagship with advanced AI features and exceptional camera capabilities.",
     "specification": [
-      "15.6-inch 4K OLED",
-      "Intel Core i9-13900H",
-      "RTX 4070",
-      "32GB RAM",
-      "1TB SSD"
+      "6.8-inch Dynamic AMOLED 2X",
+      "Snapdragon 8 Gen 3",
+      "200MP main camera system",
+      "S Pen included",
+      "12GB RAM"
     ],
     "availability": true,
     "rating": 4.7
@@ -154,19 +154,19 @@
   },
   {
     "product_id": "P010",
-    "product_title": "Samsung Galaxy Watch 6 Pro",
-    "product_image": "https://i.ibb.co.com/Qf6gZJB/samsung-galaxy-watch-6-pro.jpg",
-    "category": "Smart-Watches",
-    "price": 449,
-    "description": "Advanced health tracking and smart features in a premium design.",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/4sSVqBV/pixel-8-pro.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Experience the power of Google AI with the most advanced Pixel camera system ever.",
     "specification": [
-      "45mm display",
-      "Sapphire Crystal",
-      "Body composition",
-      "ECG monitoring",
-      "5ATM water resistance"
+      "6.7-inch LTPO OLED",
+      "Google Tensor G3",
+      "50MP triple camera system",
+      "Android 14",
+      "128GB storage"
     ],
-    "availability": true,
+    "availability": false,
     "rating": 4.6
   },
   {

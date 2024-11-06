@@ -19,7 +19,7 @@ export default function Hero() {
           </button>
         </div>
       </div>
-      <div className="absolute z-10 bottom-0 translate-y-[60%] p-5 border-t-2 rounded-2xl bg-white bg-opacity-30 backdrop-blur">
+      <div className="absolute z-10 -bottom-10 translate-y-[60%] p-5 border-t-2 rounded-2xl bg-white bg-opacity-30 backdrop-blur">
         <figure>
           <img
             src={bannerImg}
